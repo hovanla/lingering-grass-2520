@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lingering-grass-2520",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "30d9ead3-00bb-41e5-b278-8fe9ef507bd4",
+      "database_name": "empty-breeze-ffee-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
